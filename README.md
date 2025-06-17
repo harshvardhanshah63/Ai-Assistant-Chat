@@ -17,7 +17,8 @@ A simple, sleek, and interactive **AI chatbot** web application built with **pur
 - 🔐 **Local API Key Storage**: Stores your API key in the browser (for demo use only).
 - 🐣 **Easter Eggs**: Predefined fun responses for hidden keywords.
 
-![🤖 AI Chatbot – Powered by Google Gemini API - visual selection (3)](https://github.com/user-attachments/assets/90a1b92c-667a-4b26-88cc-2f999419df35)
+![🤖 AI Chatbot – Powered by Google Gemini API - visual selection (4) (1)](https://github.com/user-attachments/assets/2bc8fa18-ec50-48af-95ad-fc2e7446206e)
+
 
 
 ---
@@ -28,7 +29,8 @@ A simple, sleek, and interactive **AI chatbot** web application built with **pur
 - A modern web browser (Chrome, Firefox, Edge, Safari, etc.)
 - A Google account with access to **Google AI Studio**
 
-![🤖 AI Chatbot – Powered by Google Gemini API - visual selection (1) (1)](https://github.com/user-attachments/assets/9f226aea-91f0-4840-899c-e8070cb69279)
+![🤖 AI Chatbot – Powered by Google Gemini API - visual selection (5) (1)](https://github.com/user-attachments/assets/661239ca-42d5-4811-8863-863cbf5f8fa3)
+
 
 
 ---
@@ -62,7 +64,8 @@ A simple, sleek, and interactive **AI chatbot** web application built with **pur
 - The bot will respond, and the chat will scroll automatically.
 - Have fun trying out keywords for **Easter Eggs**!
 
-![🤖 AI Chatbot – Powered by Google Gemini API - visual selection (2) (1)](https://github.com/user-attachments/assets/c0afdd53-2f70-455d-ae13-c1dadd4ce9cb)
+![🤖 AI Chatbot – Powered by Google Gemini API - visual selection (6) (1)](https://github.com/user-attachments/assets/4ae478c3-52ce-428e-81e3-65d7499c7ed7)
+
 
 
 ---
